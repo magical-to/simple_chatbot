@@ -1,22 +1,6 @@
-chatbot-app is being sponsored by the following tool <br />
-Please help to support us by taking a look and signing up to a free trial
-<a href="https://tracking.gitads.io/?repo=chatbot-app"><img src="https://images.gitads.io/chatbot-app" alt="GitAds"/></a> 
+이 애플리케이션을 사용하려면? : <br>><br>
 
-
-Hello, My Friends  
-
-Thanks for your interest in this repository ! 
-
-To use this application, 
-
-1. make dev.js file in config folder 
-2. put mongoDB info into dev.js file 
-3. Type  " npm install " inside the root directory  ( Download Server Dependencies ) 
-4. Type " npm install " inside the client directory ( Download Front-end Dependencies )
-
-If you have problem, feel free to ask me ^^ 
-
-You can view the tutorial through the link shown below.
-
-https://www.youtube.com/watch?v=h01cuxhteOA&t=4138s
-
+config 폴더에 dev.js 파일을 만들기<br>
+MongoDB 정보를 dev.js 파일에 입력하기<br>
+루트 디렉토리에서 npm install 명령어를 입력해서 서버 dependencies 다운로드<br>
+클라이언트 디렉토리에서 npm install 명령어를 입력하기<br>
